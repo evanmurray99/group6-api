@@ -8,6 +8,13 @@ price based on their request.
 
 ---
 
+# Resource(s)
+
+1. User can get a list of fuel prices from company name, fuel price and fuel grade (e.g. ESSO, premium, diesel)  
+{"results":["$1,49.99", "$1,54.99", "$1,59.99"], "status":"OK"}
+
+---
+
 # Resource(s) Endpoints
 
 
