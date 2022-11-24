@@ -38,9 +38,9 @@ https://api.gas-stations.org/json?fuel-type=Gasoline&company-name=Shell&fuel-gra
    "result":
    {
   "company-name": "Shell",
-  "fuel-type": Gasoline,
-  "fuel-grade": Premium,
-  "price": 188.9¢
+  "fuel-type": "Gasoline",
+  "fuel-grade": "Premium",
+  "price": "188.9¢"
    },
     "status": "OK"
  }
