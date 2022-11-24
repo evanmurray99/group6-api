@@ -1,10 +1,10 @@
 # MGO
 
 Manitoba Gas and Oil (MGO) is an API that can be used to retrieve the selling
-prices of gas and oil providers based in Manitoba. The user would need to
+prices of gas and oil providers based in Manitoba. The user is required to
 provide input with their requests: company, fuel type, and fuel grade.
 In response, the user will receive information describing the current selling
-price based on their request.
+price of fuel based on their request.
 
 ---
 
