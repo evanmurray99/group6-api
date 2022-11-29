@@ -34,7 +34,7 @@ price of fuel based on their request.
 
 ## Sample Requests and Responses
 
-https://api.gas-stations.org/prices?fuel-type=Gasoline&company-name=Shell&fuel-grade=Premium
+https://api.gas-stations.org/prices?fuel-type="Gasoline"&company-name="Shell"&fuel-grade="Premium"
 
 ```
  {
