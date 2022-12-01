@@ -12,7 +12,7 @@ price of fuel based on their request.
 
 1. User can get a list of fuel prices from company name, fuel price and fuel grade (e.g. ESSO, premium, diesel) 
 ```
-   {"results": {"company-name": "", "fuel-type": "", "fuel-grade": "", "price": ""], "status":"OK"}
+   {"results": ["company-name": "", "fuel-type": "", "fuel-grade": "", "price": ""], "status":"OK"}
 ```
 
 
